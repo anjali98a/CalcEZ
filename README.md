@@ -8,5 +8,4 @@ This scientific calculator works just like most other calculators of its kind an
 
 ##Demo
 
-
-<img src="images/screenShot.jpg" />
+https://anjali98a.github.io/CalcEZ/
